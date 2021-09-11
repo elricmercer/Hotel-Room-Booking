@@ -1,0 +1,14 @@
+1.	you can click on the shortcut in the system folder (The Continental) to run the program
+  	OR
+  	right click on it and open file location and go to the exe file and run it.(debug folder)
+	and the code is in hotel booking 3.0 folder
+
+2. 	admin username and password: username: admin
+					passowrd: root
+
+3. 	dont try using other menu options without booking a room, 
+	if you dont book a room there wont be a file to modify or cancel.
+
+4. 	user can register with new username and password and use it to login,
+	 but those credentials wont work in admin login as admin login is already set.(no.2)
+ 
