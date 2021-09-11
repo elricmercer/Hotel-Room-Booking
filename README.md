@@ -1,1 +1,1 @@
-# Hotel Room Booking System in C
+# Hotel Room Booking System, Developed in C
